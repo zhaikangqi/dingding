@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fastwego/dingding/util"
+	"github.com/zhaikangqi/dingding/util"
 )
 
 // Crypto 加密结构体
